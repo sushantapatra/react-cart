@@ -49,13 +49,11 @@ const Header = (props) => {
 							<option value="dark">Dark Mode</option>
 							<option value="light">Light Mode</option>
 						</select>
-					
 					</div>̦
 				</div>
 			</nav>
 			<Alert alertMessage={alert}/>
 		</div>
-		
 	)
 }
 
